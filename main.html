@@ -3,7 +3,23 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>UIC Decoder</title>
   </head>
-  <body></body>
+  <body>
+    <h1>UIC Number Decoder</h1>
+    <h3>Decode UIC numbers and verify check digits easily</h3>
+    
+    <div class="input-container">
+      <input type="text" id="uicInput" placeholder="Enter 11 or 12-digit UIC number" />
+      <div class="button-group">
+        <button id="submitBtn">Submit</button>
+        <button id="clearBtn">Clear</button>
+      </div>
+    </div>
+    
+    <div id="output" class="output-box"></div>
+
+    <script src="script.js"></script>
+  </body>
 </html>

@@ -1,0 +1,17 @@
+[
+    { "range": "00-09", "description": "T car with opening roof" },
+    { "range": "10-19", "description": "G closed wagon" },
+    { "range": "20-29", "description": "H special closed wagon (sliding walls etc)" },
+    { "range": "30-34", "description": "K 2 axle flat car" },
+    { "range": "35-39", "description": "R 4 axle flat car" },
+    { "range": "40-44", "description": "L 2 axle special flat car" },
+    { "range": "45-49", "description": "S 4+ axle special flat car" },
+    { "range": "50-55", "description": "E normal open car" },
+    { "range": "56-58", "description": "T car with opening roof" },
+    { "range": "59-59", "description": "E normal open car" },
+    { "range": "60-69", "description": "F special open car" },
+    { "range": "70-79", "description": "Z tank car" },
+    { "range": "80-89", "description": "I isolated/refrigerator car" },
+    { "range": "90-99", "description": "U special cars" }
+  ]
+  
